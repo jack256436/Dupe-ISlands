@@ -9,7 +9,7 @@ local MainTab = Window:MakeTab({
 })
 
 _G.KeyInput = "string"
-_G.Key = "YourKey"
+_G.Key = "32H73hj38GH38h38HL84y8nlat8a4n4lkaaaaasdk9ljynoasfweril"
 function BloodBath()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/jack256436/yes/main/dupe')))()
 end
